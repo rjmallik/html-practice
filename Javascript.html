@@ -17,6 +17,21 @@ Click me to display Date and Time.</button>
     <noscript>Sorry, your browser does not support JavaScript!</noscript>
     
     <p>A browser without support for JavaScript will show the text written inside the noscript element.</p>
+
+<hr>
+<h1>My First JavaScript</h1>
+
+<p id="demo">JavaScript can change the style of an HTML element.</p>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").style.fontSize = "25px"; 
+  document.getElementById("demo").style.color = "red";
+  document.getElementById("demo").style.backgroundColor = "yellow";        
+}
+</script>
+
+<button type="button" onclick="myFunction()">Click Me!</button>
      
 </body>
 </html> 
