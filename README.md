@@ -1,1 +1,1 @@
-HTML This is RJs reposiroty for practiving html programming. More to come soon, watch for this space.
+Early practice with Html and Web development and the implementation of the numerous subtopics within this field.
